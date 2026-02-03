@@ -8,8 +8,12 @@ const translations = {
             contact: "Kontakt"
         },
         hero: {
-            title: "Spawanie <span>Offshore</span>",
-            subtitle: "Jako spawacz offshore w branży Oil & Gas, dostarczam najwyższej jakości spoiny tam, gdzie warunki są najtrudniejsze. Od morskich konstrukcji stalowych po zaawansowane systemy rurociągów – stawiam na trwałość, szczelność i bezpieczeństwo.",
+            title: "Mistrzowska precyzja poparta <span>19-letnim doświadczeniem</span>",
+            subtitle: "Szukasz spawacza, dla którego jakość nie jest tylko pustym hasłem? Nazywam się Rafał i od blisko dwóch dekad łączę metal z pasją i najwyższą starannością. Moje doświadczenie to gwarancja spoin, które są nie tylko wytrzymałe, ale i estetyczne.",
+            whytrust: "Dlaczego warto mi zaufać?",
+            point1: "19 lat praktyki – Radzę sobie z najtrudniejszymi wyzwaniami technicznymi.",
+            point2: "Bezkompromisowa jakość – Każdy spaw wykonuję z dbałością o najmniejszy detal.",
+            point3: "Sumienność i terminowość – Szanuję Twój czas i powierzone mi materiały.",
             btn1: "Nasze Usługi",
             btn2: "Kontakt"
         },
@@ -59,8 +63,12 @@ const translations = {
             contact: "Contact"
         },
         hero: {
-            title: "Offshore <span>Welding</span>",
-            subtitle: "As an offshore welder in the Oil & Gas industry, I deliver the highest quality welds where conditions are toughest. From marine steel structures to advanced pipeline systems – I focus on durability, tightness and safety.",
+            title: "Master precision backed by <span>19 years of experience</span>",
+            subtitle: "Looking for a welder for whom quality is not just an empty slogan? My name is Rafał and for nearly two decades I've been joining metal with passion and the highest care. My experience is a guarantee of welds that are not only durable but also aesthetic.",
+            whytrust: "Why trust me?",
+            point1: "19 years of practice – I handle the most difficult technical challenges.",
+            point2: "Uncompromising quality – Every weld is made with attention to the smallest detail.",
+            point3: "Reliability and punctuality – I respect your time and entrusted materials.",
             btn1: "Our Services",
             btn2: "Contact"
         },
@@ -110,8 +118,12 @@ const translations = {
             contact: "Contact"
         },
         hero: {
-            title: "Offshore <span>Lassen</span>",
-            subtitle: "Als offshore lasser in de Oil & Gas industrie lever ik de hoogste kwaliteit lassen waar de omstandigheden het zwaarst zijn. Van maritieme staalconstructies tot geavanceerde pijpleidingsystemen – ik focus op duurzaamheid, dichtheid en veiligheid.",
+            title: "Meesterlijke precisie ondersteund door <span>19 jaar ervaring</span>",
+            subtitle: "Op zoek naar een lasser voor wie kwaliteit niet zomaar een lege slogan is? Mijn naam is Rafał en al bijna twee decennia verbind ik metaal met passie en de hoogste zorg. Mijn ervaring is een garantie voor lassen die niet alleen duurzaam maar ook esthetisch zijn.",
+            whytrust: "Waarom mij vertrouwen?",
+            point1: "19 jaar praktijk – Ik kan de moeilijkste technische uitdagingen aan.",
+            point2: "Compromisloze kwaliteit – Elke las wordt met aandacht voor het kleinste detail gemaakt.",
+            point3: "Betrouwbaarheid en stiptheid – Ik respecteer uw tijd en toevertrouwde materialen.",
             btn1: "Onze Diensten",
             btn2: "Contact"
         },

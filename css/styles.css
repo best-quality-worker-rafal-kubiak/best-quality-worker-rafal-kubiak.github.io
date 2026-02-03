@@ -120,10 +120,18 @@ nav {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
                 url('https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1920') center/cover;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     text-align: center;
-    padding: 2rem;
+    padding-top: 100px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.hero-content {
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .hero-content {
@@ -142,7 +150,19 @@ nav {
 
 .hero p {
     font-size: 1.25rem;
-    color: var(--light);
+    color: var(--white);
+    margin-bottom: 0.8rem;
+}
+
+.hero-subtitle2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero-content > p:last-of-type {
     margin-bottom: 2rem;
 }
 
